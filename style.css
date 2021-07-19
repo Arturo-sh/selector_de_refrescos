@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+	background: url(refrescos.jpg) center center no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	text-transform: uppercase;
+}
+.titulo{
+	padding: 12px;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+div.principal{
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+p, div{
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+button{
+	margin-top: 20px;
+}
